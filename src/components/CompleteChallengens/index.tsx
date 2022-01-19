@@ -1,6 +1,6 @@
 import styles from './styles.module.scss';
 
-export function CompleteChallegens() {
+export function CompleteChallengens() {
     return (
         <div className={styles.completeChallengesContainer}>
             <span>Desafios completos</span>

@@ -4,8 +4,9 @@ import styles from '../styles/pages/Home.module.scss'
 
 import { ExperienceBar } from "../components/ExperienceBar";
 import { Profile } from "../components/Profile";
-import { CompleteChallegens } from '../components/CompleteChallegens';
+import { CompleteChallengens } from '../components/CompleteChallengens';
 import { CountDown } from '../components/CountDown';
+import { ChallengeBox } from '../components/ChallengeBox';
 
 export default function Home() {
     return (
@@ -19,10 +20,12 @@ export default function Home() {
             <section>
                 <aside className={styles.leftContainer}>
                     <Profile />
-                    <CompleteChallegens />
+                    <CompleteChallengens />
                     <CountDown />
                 </aside>
-                <aside></aside>
+                <div>
+                    <ChallengeBox />
+                </div>
             </section>
         </div>
     )
