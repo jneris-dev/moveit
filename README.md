@@ -13,6 +13,7 @@ This project was developed using the following technologies:
 - [React](https://reactjs.org)
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [SCSS](https://sass-lang.com/)
 
 ## 🔥 Preview
 
