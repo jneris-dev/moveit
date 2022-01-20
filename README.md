@@ -19,7 +19,7 @@ This project was developed using the following technologies:
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-[<img alt="Moveit" title="Letmeask" src=".github/deploy.svg" />](https://moveit-virid-seven.vercel.app/)
+[<img alt="Moveit" title="Letmeask" src=".github/deploy.svg" />](https://moveit-jneris-dev.vercel.app/)
 
 ## 🚀 Getting started
 
@@ -42,7 +42,7 @@ The app will be available for access on your browser at http://localhost:3000
 
 ## 💻 Project
 
-[Move.it](https://moveit-virid-seven.vercel.app/) came to remind you to exercise always! 💜
+[Move.it](https://moveit-jneris-dev.vercel.app/) came to remind you to exercise always! 💜
 
 This is a project developed during the [Next Level Week](https://nextlevelweek.com/), presented by [@Rocketseat](https://github.com/Rocketseat) during February 22-28, 2021.
 
