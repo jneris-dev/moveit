@@ -1,34 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img alt="Moveit" src=".github/logo.svg" width="160px">
+</p>
 
-## Getting Started
+<p align="center">
+    <img alt="Moveit" title="Letmeask" src=".github/cover.svg" />
+</p>
 
-First, run the development server:
+## 🧪 Technologies
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+This project was developed using the following technologies:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [React](https://reactjs.org)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
+## 🔥 Preview
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[<img alt="Moveit" title="Letmeask" src=".github/deploy.svg" />](https://moveit-virid-seven.vercel.app/)
+
+## 🚀 Getting started
+
+Clone the project and access the folder.
+
+```bash
+$ git clone https://github.com/jneris-dev/moveit.git
+$ cd moveit
+```
+
+Follow the steps below:
+```bash
+# Install the dependencies
+$ yarn
+
+# Start the project
+$ yarn dev
+```
+The app will be available for access on your browser at http://localhost:3000
+
+## 💻 Project
+
+[Move.it](https://moveit-virid-seven.vercel.app/) came to remind you to exercise always! 💜
+
+This is a project developed during the [Next Level Week](https://nextlevelweek.com/), presented by [@Rocketseat](https://github.com/Rocketseat) during February 22-28, 2021.
+
+## 🔖 Layout
+
+You can view the project layout through the links below:
+
+- [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate) 
+
+Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+
+
+---
+
+<p align="center">Made with 🖤 by João Neris</p>
